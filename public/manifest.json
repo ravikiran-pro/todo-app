@@ -1,0 +1,11 @@
+{
+  "short_name": "My Todo App",
+  "name": "My Todo App",
+  "scope": ".",
+  "start_url": ".",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

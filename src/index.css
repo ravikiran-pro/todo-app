@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "fontExtraBold";
+  src: url("/fonts/NunitoSans-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "fontBold";
+  src: url("/fonts/NunitoSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: "fontRegular";
+  src: url("/fonts/NunitoSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "fontSemiBold";
+  src: url("/fonts/NunitoSans-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "fontSemiBoldItalic";
+  src: url("/fonts/NunitoSans-SemiBoldItalic.ttf");
+}
+
+body {
+  margin: 0;
+}
